@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This is a new page
+title: Pagina 2
 sections: []
 slug: empty
 isDraft: false
