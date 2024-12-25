@@ -13,25 +13,15 @@ sections:
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - label: Get started
+      - label: Instructivo 1
         altText: ''
-        url: /
+        url: /careers
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - type: Button
-        label: Get started
-        altText: ''
-        url: >-
-          https://docs.google.com/document/d/1wh106RppOpBBbqUxWW-Vp-PQK9T3C3ftoEaIXyxDtlk/edit?tab=t.0
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - label: See Tutorials
         altText: ''
         url: /
