@@ -22,6 +22,16 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Button
+        label: Get started
+        altText: ''
+        url: >-
+          https://docs.google.com/document/d/1wh106RppOpBBbqUxWW-Vp-PQK9T3C3ftoEaIXyxDtlk/edit?tab=t.0
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
       - label: See Tutorials
         altText: ''
         url: /
