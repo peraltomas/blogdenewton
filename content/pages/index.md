@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Instructivo 1
         altText: ''
-        url: /careers1
+        url: /careers
         showIcon: false
         icon: arrowRight
         iconPosition: right
