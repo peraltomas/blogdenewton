@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Instructivo 1
         altText: ''
-        url: /
+        url: /ca
         showIcon: false
         icon: arrowRight
         iconPosition: right
