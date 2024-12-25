@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Pagina base
 slug: /
 sections:
   - type: GenericSection
