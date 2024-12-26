@@ -54,6 +54,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/b641a850-db66-4a56-9cd5-af20061eb149.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
