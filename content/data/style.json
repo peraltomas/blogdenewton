@@ -83,7 +83,7 @@
     "linkSecondary": {
         "weight": "normal",
         "case": "none",
-        "letterSpacing": "wide",
+        "letterSpacing": "normal",
         "type": "ThemeStyleLink"
     },
     "type": "ThemeStyle"
