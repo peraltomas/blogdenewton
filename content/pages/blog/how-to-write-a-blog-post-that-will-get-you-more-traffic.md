@@ -11,6 +11,7 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
+  elementId: Element 1
 content: >-
   Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
   efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium
