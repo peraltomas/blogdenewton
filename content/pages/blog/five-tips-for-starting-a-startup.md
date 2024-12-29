@@ -19,7 +19,7 @@ featuredImage:
         - pr-0
         - pt-0
       margin:
-        - ml-0
+        - ml-80
         - mr-20
 bottomSections: []
 isFeatured: true
