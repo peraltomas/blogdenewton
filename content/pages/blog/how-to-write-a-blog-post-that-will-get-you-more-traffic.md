@@ -17,7 +17,7 @@ featuredImage:
         - pr-0
       margin:
         - ml-60
-        - mr-60
+        - mr-0
   elementId: Element 1
 content: >-
   Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
