@@ -14,7 +14,7 @@ featuredImage:
     self:
       borderRadius: medium
       padding:
-        - pb-0
+        - pb-40
         - pl-40
         - pr-40
 bottomSections: []
