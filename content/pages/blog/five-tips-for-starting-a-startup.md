@@ -19,8 +19,10 @@ featuredImage:
         - pr-0
         - pt-0
       margin:
-        - ml-20
-        - mr-20
+        - ml-3
+        - mr-3
+        - mt-3
+        - mb-3
 bottomSections: []
 isFeatured: true
 isDraft: false
