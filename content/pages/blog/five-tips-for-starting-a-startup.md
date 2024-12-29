@@ -17,7 +17,7 @@ featuredImage:
         - pb-0
         - pl-40
         - pr-40
-        - pt-40
+        - pt-0
 bottomSections: []
 isFeatured: true
 isDraft: false
