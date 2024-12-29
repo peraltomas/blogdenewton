@@ -16,7 +16,7 @@ featuredImage:
       padding:
         - pb-0
         - pl-40
-        - pr-40
+        - pr-0
         - pt-0
 bottomSections: []
 isFeatured: true
