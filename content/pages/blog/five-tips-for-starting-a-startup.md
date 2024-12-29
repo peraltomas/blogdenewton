@@ -15,6 +15,7 @@ featuredImage:
       borderRadius: medium
       padding:
         - pb-0
+        - pl-40
 bottomSections: []
 isFeatured: true
 isDraft: false
