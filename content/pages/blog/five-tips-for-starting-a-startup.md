@@ -14,7 +14,7 @@ featuredImage:
     self:
       borderRadius: medium
       padding:
-        - pb-40
+        - pb-0
         - pl-40
         - pr-40
         - pt-40
