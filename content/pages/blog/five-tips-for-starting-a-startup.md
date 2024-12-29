@@ -20,6 +20,7 @@ featuredImage:
         - pt-0
       margin:
         - ml-0
+        - mr-20
 bottomSections: []
 isFeatured: true
 isDraft: false
