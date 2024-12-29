@@ -13,7 +13,7 @@ featuredImage:
       borderRadius: medium
       borderWidth: 1
       padding:
-        - pl-56
+        - pl-0
         - pr-56
   elementId: Element 1
 content: >-
