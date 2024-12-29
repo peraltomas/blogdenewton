@@ -14,7 +14,7 @@ featuredImage:
     self:
       borderRadius: medium
       padding:
-        - pb-4
+        - pb-0
 bottomSections: []
 isFeatured: true
 isDraft: false
