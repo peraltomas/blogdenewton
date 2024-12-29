@@ -29,6 +29,7 @@ topSections:
               borderRadius: x-large
               padding:
                 - pr-2
+                - pb-2
         actions: []
         colors: bg-light-fg-dark
         styles:
