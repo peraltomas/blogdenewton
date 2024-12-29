@@ -10,7 +10,7 @@ featuredImage:
   type: ImageBlock
   styles:
     self:
-      borderRadius: xx-small
+      borderRadius: none
       borderWidth: 1
       padding:
         - pl-0
