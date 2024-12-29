@@ -13,7 +13,7 @@ featuredImage:
       borderRadius: medium
       borderWidth: 1
       padding:
-        - pl-10
+        - pl-96
   elementId: Element 1
 content: >-
   Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
