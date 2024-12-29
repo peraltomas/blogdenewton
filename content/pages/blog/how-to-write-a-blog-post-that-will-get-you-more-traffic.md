@@ -16,7 +16,7 @@ featuredImage:
         - pl-0
         - pr-0
       margin:
-        - ml-60
+        - ml-0
         - mr-0
   elementId: Element 1
 content: >-
