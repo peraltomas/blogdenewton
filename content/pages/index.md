@@ -54,6 +54,34 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/b641a850-db66-4a56-9cd5-af20061eb149.jpg
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: Meet the team
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+      - content/data/person6.json
+    actions: []
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
