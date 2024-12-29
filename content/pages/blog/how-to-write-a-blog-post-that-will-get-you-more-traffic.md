@@ -13,8 +13,10 @@ featuredImage:
       borderRadius: none
       borderWidth: 1
       padding:
-        - pl-0
-        - pr-0
+        - pl-8
+        - pr-8
+        - pt-8
+        - pb-8
       margin:
         - ml-0
         - mr-0
