@@ -18,6 +18,8 @@ featuredImage:
         - pl-40
         - pr-0
         - pt-0
+      margin:
+        - ml-10
 bottomSections: []
 isFeatured: true
 isDraft: false
