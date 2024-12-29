@@ -19,7 +19,7 @@ featuredImage:
         - pr-0
         - pt-0
       margin:
-        - ml-12
+        - ml-0
         - mr-12
         - mt-12
         - mb-12
